@@ -23,9 +23,8 @@
     .contact-submit-btn{
         font-size:  16px;
     }
-    #mobile-menu{
-        display:none;
-    }
+    
+    
 
     
 
@@ -40,6 +39,10 @@
     #content .content-section{
         max-width: 100%;
     }
+    #mobile-menu{
+        display:none;
+    }
+    
     
     
 

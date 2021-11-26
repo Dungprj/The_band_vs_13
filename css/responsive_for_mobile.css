@@ -36,7 +36,7 @@
     #header .mobile-menu-bt,
     #header .search-btn {
     color:#fff;
-    padding:0 21px;
+    padding:15px 21px;
     float: right;
     position:absolute;
     top: 0px;
@@ -99,6 +99,9 @@
         width:100%;
         appearance: none;
         -webkit-appearance: none;
+    }
+    #mobile-menu{
+        display:block !important;
     }
    
     
